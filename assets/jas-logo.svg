@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 190" role="img" aria-labelledby="title desc">
+  <title id="title">JAS Import Export Logo</title>
+  <desc id="desc">Clean JAS import export wordmark.</desc>
+  <defs>
+    <filter id="softShadow" x="-16%" y="-16%" width="132%" height="132%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#062414" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <g filter="url(#softShadow)" fill="#ffffff">
+    <text x="260" y="105" text-anchor="middle" font-family="Arial Black, Impact, Arial, sans-serif" font-size="106" font-weight="900" letter-spacing="-8">JAS</text>
+    <path d="M317 62h67l-18-17 9-10 40 35-40 35-9-10 18-17h-67z" fill="#126337"/>
+    <path d="M384 119h-67l18 17-9 10-40-35 40-35 9 10-18 17h67z" fill="#126337"/>
+    <text x="260" y="136" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="17">import export</text>
+  </g>
+  <path d="M122 159h276" fill="none" stroke="#e5bd48" stroke-width="4" stroke-linecap="round"/>
+  <text x="260" y="181" fill="#dff2e6" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Screen Printing | Heat Transfer Sticker | High Density Printing</text>
+</svg>
